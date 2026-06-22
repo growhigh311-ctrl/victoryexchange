@@ -1,0 +1,7 @@
+# robots.txt for VictoryExchange
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /drafts/
+
+Sitemap: https://victoryexchange.com/sitemap.xml
