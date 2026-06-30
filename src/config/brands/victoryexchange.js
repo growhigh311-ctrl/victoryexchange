@@ -5,8 +5,8 @@ export default {
   "theme": "victoryexchange",
   "color": "Teal + White",
   "domain": "victoryexchange.com",
-  "phone": "+91 98765 43216",
-  "whatsapp": "+91 98765 43216",
+  "phone": "+91 7589045547",
+  "whatsapp": "+91 7589045547",
   "telegram": "@VictoryExchange_Official",
   "tagline": "Where Champions Bet and Victory is Exchanged",
   "seo": {
