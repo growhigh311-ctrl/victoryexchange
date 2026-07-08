@@ -25,6 +25,9 @@ export default function RootLayout({ children }) {
 
 export const metadata = {
   metadataBase: new URL(`https://${brand.domain}`),
+  verification: {
+    google: "gSjlNd5lSU_Ad6e1yerZ6eg5rDd1wixQBJQJM2NyiP0",
+  },
   title: {
     default: brand.seo.home.title,
     template: `%s | ${brand.name}`
