@@ -11,33 +11,33 @@ export default function Features() {
   const featureItems = [
     {
       icon: <Zap className="w-8 h-8 text-accent" />,
-      title: 'Instant ID Activation',
-      desc: `Get your online cricket exchange and gaming ID on ${brand.name} in less than 2 minutes on WhatsApp.`
+      title: 'Instant ID Creation',
+      desc: `Get your online cricket exchange and gaming ID on ${brand.name} in under 2 minutes on WhatsApp`
     },
     {
       icon: <Clock className="w-8 h-8 text-accent" />,
       title: '15-Min Fast Withdrawals',
-      desc: 'No delays. Withdraw your winnings directly to your bank account or UPI wallet in 10 to 15 minutes.'
+      desc: `Withdaw your Winnings directly to your bank account or UPI wallet within 10-15 minutes on ${brand.name}`
     },
     {
       icon: <Clock className="w-8 h-8 text-accent" />, // We can map this to active support
       title: '24x7 WhatsApp Support',
-      desc: 'Our dedicated customer support agents are online day and night to answer questions and load deposits.'
+      desc: 'Our friendly customer support executives are available 24x7 on WhatsApp to assist and guide you'
     },
     {
       icon: <Shield className="w-8 h-8 text-accent" />,
       title: 'Secure & Private Platform',
-      desc: 'All player registrations, financial databases, and credentials run on 256-bit SSL encrypted nodes.'
+      desc: 'All your user details, financial records, and transactions are safe on 256-bit encrypted nodes'
     },
     {
       icon: <TrendingUp className="w-8 h-8 text-accent" />,
       title: 'Live Match Betting',
-      desc: 'Enjoy live interactive back-and-lay odds tracking for Cricket matches, Football leagues, and Tennis.'
+      desc: 'Bet live on interactive back-and-lay odds for Cricket matches, Football leagues, and Tennis events'
     },
     {
       icon: <CheckCircle className="w-8 h-8 text-accent" />,
       title: '100% Trusted Service',
-      desc: `Join thousands of active Indian punters who trust ${brand.name} for cricket IDs, casinos, and Teen Patti.`
+      desc: `Join thousands of active punters and get your cricket ID, casino account, and Teen Patti on ${brand.name}`
     }
   ];
 
@@ -54,7 +54,7 @@ export default function Features() {
             Premium Features Designed For You
           </h2>
           <p className="text-sm text-text-muted mt-3">
-            We provide a fast, secure, and highly transparent betting environment on India's top cricket exchange.
+            We offer a quick, seamless, and transparent betting experience on India’s largest cricket exchange.
           </p>
         </div>
 

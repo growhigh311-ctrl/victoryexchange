@@ -11,22 +11,22 @@ export default function WhyChooseUs() {
     {
       num: '01',
       title: 'Request ID',
-      desc: `Send a quick text to our support desk on WhatsApp to register and receive your login details.`
+      desc: `Send a WhatsApp message to our customer support executives to request and get your cricket exchange and gaming ID`
     },
     {
       num: '02',
       title: 'Make Deposit',
-      desc: 'Load funds securely via BHIM UPI, PhonePe, Paytm, or bank transfer (Minimum ₹500).'
+      desc: 'Make secure deposits directly from your BHIM UPI, PhonePe, Paytm, or bank account with a minimum deposit amount of ₹500'
     },
     {
       num: '03',
       title: 'Start Playing',
-      desc: 'Log in to the exchange portal, track high-liquidity matches, and wager with live odds.'
+      desc: 'Log in to the exchange portal and start tracking high liquidity Cricket matches, Football leagues, and Casino odds'
     },
     {
       num: '04',
       title: 'Instant Cashout',
-      desc: 'Message us on WhatsApp to withdraw your winning balance directly to your bank in 15 minutes.'
+      desc: 'Send a WhatsApp message to the support team to instantly cashout your winnings directly to your bank account within 15 mins'
     }
   ];
 
@@ -42,19 +42,19 @@ export default function WhyChooseUs() {
               Simple Workflow
             </span>
             <h2 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight leading-tight">
-              Get Your Online Cricket ID and Play in Minutes
+              Get your online cricket ID and start wagering with ease on VictoryExchange
             </h2>
             <p className="text-sm text-text-muted leading-relaxed">
-              We have streamlined the entire registration and transaction process on {brand.name}. No complex validation forms, no long processing delays.
+              We have optimised the registration and deposit process on our gaming portal to ensure zero hassles and delays for our users.
             </p>
 
             {/* List checklist */}
             <div className="space-y-3 pt-2">
               {[
-                'Instant account activation in 2 minutes',
-                'Multiple Indian payment gateways supported',
-                'Guaranteed 15-minute cashouts 24/7',
-                'End-to-end user detail encryption'
+                'Instant account opening in 2-min',
+                'Multiple payment mode options for deposits',
+                'Guaranteed 15-min cashout on withdrawals 24x7',
+                'End-to-end data encryption for total privacy'
               ].map((text, idx) => (
                 <div key={idx} className="flex items-center gap-3">
                   <span className="flex items-center justify-center w-5 h-5 rounded-full bg-primary/20 text-primary">

@@ -22,7 +22,7 @@ export default function Testimonials() {
             Loved by Thousands of Active Gamers
           </h2>
           <p className="text-sm text-text-muted mt-3">
-            Here is what verified accounts say about deposit speeds, payouts, and support at {brand.name}.
+            Here is what our valued customers have to say about the instant ID creation, fast payouts, and 24x7 support on {brand.name}.
           </p>
         </div>
 

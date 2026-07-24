@@ -8,7 +8,7 @@ export default {
   "phone": "+91 7589045547",
   "whatsapp": "+91 7589045547",
   "telegram": "@VictoryExchange_Official",
-  "tagline": "Where Champions Bet and Victory is Exchanged",
+  "tagline": "Where Champions bet and Victory is exchanged",
   "seo": {
     "home": {
       "title": "VictoryExchange | Get Instant Online Cricket ID | Payouts in 15 Min",
@@ -78,7 +78,7 @@ export default {
       "metaDescription": "Understand the legal terms of service, wagering rules, and withdrawal guidelines on the VictoryExchange exchange."
     }
   },
-  "aboutUsText": "Welcome to VictoryExchange, the premium destination for sports and cricket exchanges in India. Founded with a vision to deliver a transparent, rapid-withdrawal betting experience, we cater to thousands of passionate sports enthusiasts daily. We offer immediate registrations, verified ID activations, and instant 15-minute bank cashouts on WhatsApp. Our secure servers keep user information encrypted, letting you focus entirely on your game.",
+  "aboutUsText": "Welcome to VictoryExchange, the best platform for sports and cricket exchange in India. With us, you can enjoy a transparent and instant withdrawal betting experience as we serve thousands of sports lovers every day. Just register and activate your verified ID instantly and withdraw money from your bank in just 15 minutes on WhatsApp. Your personal details are safe and secured in our advanced servers, which enables you to concentrate on your game.",
   "testimonials": [
     {
       "id": "testi-1",
@@ -119,22 +119,22 @@ export default {
   "faqs": [
     {
       "id": "faq-1",
-      "question": "How do I get an online cricket ID on VictoryExchange?",
+      "question": "How to get an online cricket ID on VictoryExchange",
       "answer": "To obtain your unique cricket ID on VictoryExchange, simply click the \"Get WhatsApp ID\" button. You will be redirected to our support team, who will guide you to create an account within 2 minutes."
     },
     {
       "id": "faq-2",
-      "question": "What is the starting deposit required for VictoryExchange?",
+      "question": "What is the deposit amount required to start using VictoryExchange",
       "answer": "You can start betting on VictoryExchange with an initial deposit of â‚¹500. We support multiple local payment options for smooth transactions."
     },
     {
       "id": "faq-3",
-      "question": "What is the withdrawal policy and turnaround time for VictoryExchange?",
+      "question": "What is the withdrawal policy, and how long does it take to clear VictoryExchange withdrawals?",
       "answer": "At VictoryExchange, we offer the fastest payouts in the industry. Your withdrawal requests are handled instantly and completed in less than 15 minutes."
     },
     {
       "id": "faq-4",
-      "question": "Are my transactions secure on VictoryExchange?",
+      "question": "Are the transactions on VictoryExchange safe?",
       "answer": "Yes, VictoryExchange uses advanced 256-bit SSL encryption to guarantee complete confidentiality of your deposits, withdrawals, and personal credentials."
     },
     {
@@ -171,7 +171,7 @@ export default {
   "blogs": [
     {
       "id": "victoryexchange-blog-1",
-      "title": "How To Get Online Cricket ID - VictoryExchange Insights",
+      "title": "How To Get Online Cricket ID",
       "slug": "how-to-get-online-cricket-id",
       "category": "Cricket ID",
       "summary": "Everything you need to know about How To Get Online Cricket ID on our platform, detailing instant registrations and payouts.",
@@ -182,7 +182,7 @@ export default {
     },
     {
       "id": "victoryexchange-blog-2",
-      "title": "IPL Betting Guide - VictoryExchange Insights",
+      "title": "IPL Betting Guide",
       "slug": "ipl-betting-guide",
       "category": "IPL Betting",
       "summary": "Step-by-step masterclass explaining IPL Betting Guide to help you secure better odds and protect your gaming wallet.",
@@ -193,7 +193,7 @@ export default {
     },
     {
       "id": "victoryexchange-blog-3",
-      "title": "Best Sports Exchange Platforms - VictoryExchange Insights",
+      "title": "Best Sports Exchange Sites",
       "slug": "best-sports-exchange-platforms",
       "category": "Exchange",
       "summary": "A complete comprehensive breakdown of Best Sports Exchange Platforms tailored for beginners and pro gamers looking to maximize winnings.",
@@ -204,7 +204,7 @@ export default {
     },
     {
       "id": "victoryexchange-blog-4",
-      "title": "Live Cricket Betting Tips - VictoryExchange Insights",
+      "title": "Live Cricket Betting Tips",
       "slug": "live-cricket-betting-tips",
       "category": "Wagering Tips",
       "summary": "Learn how to leverage key trends, secure your gaming ID, and win big with our premium Live Cricket Betting Tips tutorial.",
@@ -215,7 +215,7 @@ export default {
     },
     {
       "id": "victoryexchange-blog-5",
-      "title": "Casino Games Guide - VictoryExchange Insights",
+      "title": "Guide to Casino Games",
       "slug": "casino-games-guide",
       "category": "Casino",
       "summary": "Everything you need to know about Casino Games Guide on our platform, detailing instant registrations and payouts.",

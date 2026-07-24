@@ -53,7 +53,7 @@ export default function Hero() {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-base sm:text-lg md:text-xl font-medium text-text-muted max-w-2xl"
             >
-              {seoHome.h3}. Register now to receive a 10% welcome bonus on deposits and withdraw in under 15 minutes.
+              24x7 WhatsApp Help Desks Service, Register now to enjoy 10% welcome bonus on deposits and withdraw within 15 mins.
             </motion.p>
 
             {/* Trust Highlights */}
@@ -138,7 +138,7 @@ export default function Hero() {
                 </div>
 
                 <div className="pt-2 flex items-center justify-between border-t border-slate-800 text-xs">
-                  <span className="text-text-muted">Minimum Deposit: <strong>₹500</strong></span>
+                  <span className="text-text-muted">Min Deposit: <strong>₹500</strong></span>
                   <span className="text-text-muted">Withdrawal time: <strong>15 Min</strong></span>
                 </div>
               </div>

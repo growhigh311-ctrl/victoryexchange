@@ -42,7 +42,7 @@ export default function ContactForm() {
                 Connect With Us 24/7
               </h2>
               <p className="text-xs sm:text-sm text-text-muted leading-relaxed">
-                Have a question about odds, withdrawal limits, or setting up a multi-tenant betting account? Send us a message and our support team will guide you.
+                Have a question regarding odds, limits, or multi-tenant betting account setup? Send us a message and our executives will get back to you.
               </p>
             </div>
 

@@ -13,7 +13,7 @@ export default function GamesGrid() {
       id: 'cricket',
       title: 'Cricket Exchange',
       tagline: 'Lowest commission, highest odds.',
-      desc: `Bet on the IPL, Test series, ODI, and international tournaments on India's premier cricket exchange with lay-and-back options.`,
+      desc: `The lowest commission and highest odds betting exchange in India for all domestic and international matches including T20, ODI, Test, and leagues.`,
       icon: <Trophy className="w-6 h-6 text-accent" />,
       tag: 'Popular'
     },
@@ -21,7 +21,7 @@ export default function GamesGrid() {
       id: 'football',
       title: 'Football Betting',
       tagline: 'Global leagues coverage.',
-      desc: 'Predict football scores and outcomes across major tournaments including Premier League, Champions League, and FIFA matches.',
+      desc: 'Bet on scores & results of all global football leagues including Premier League, Champions League, and FIFA matches.',
       icon: <Target className="w-6 h-6 text-accent" />,
       tag: 'Leagues'
     },
@@ -29,7 +29,7 @@ export default function GamesGrid() {
       id: 'tennis',
       title: 'Tennis Betting',
       tagline: 'ATP & WTA matches.',
-      desc: 'Get real-time court wagers on major Grand Slams, ATP Tours, and live game-by-game statistics.',
+      desc: 'Get live odds on ATP, WTA, and Grand Slams along with game, tie-break, and set statistics for live betting.',
       icon: <Activity className="w-6 h-6 text-accent" />,
       tag: 'Live'
     },
@@ -37,15 +37,15 @@ export default function GamesGrid() {
       id: 'casino',
       title: 'Live Casino Rooms',
       tagline: 'Real human dealers.',
-      desc: 'Play Live Roulette, Baccarat, and Blackjack with full streaming, high limits, and real-time dealer interactions.',
+      desc: 'Play Live Roulette, Baccarat, and Blackjack in high roll lobbies with real-time dealer interaction and full streaming for an immersive experience.',
       icon: <Eye className="w-6 h-6 text-accent" />,
       tag: 'VIP'
     },
     {
       id: 'teen-patti',
-      title: 'Teen Patti & Card Games',
+      title: 'Teen Patti & Cards',
       tagline: 'Traditional Indian card rooms.',
-      desc: 'Compete in live Andar Bahar, Teen Patti, and poker lobbies optimized for mobile play with seamless credit transfers.',
+      desc: 'Play popular Indian Andar Bahar, Teen Patti, and Poker lobbies on mobile with live credit transfers and ultra-fast fund settlements.',
       icon: <Calendar className="w-6 h-6 text-accent" />,
       tag: 'Hot'
     },
@@ -53,7 +53,7 @@ export default function GamesGrid() {
       id: 'slots',
       title: 'Online Slot Games',
       tagline: 'High RTP slot reels.',
-      desc: 'Spin hundreds of slot configurations, including classic fruit machines, video reels, and progressive jackpots.',
+      desc: 'Play high RTP slot reels with hundreds of unique themes including classic fruit machines, video slots, and jackpot modes.',
       icon: <HelpCircle className="w-6 h-6 text-accent" />,
       tag: 'Jackpot'
     }
@@ -74,7 +74,7 @@ export default function GamesGrid() {
             Comprehensive Sportsbook & Live Casino Lobbies
           </h2>
           <p className="text-sm text-text-muted mt-3">
-            Register once and gain access to an array of sports wagering exchanges and live card dealer hubs.
+            Register once and you can access a multitude of sports wagering exchanges and live card dealer rooms.
           </p>
         </div>
 
